@@ -1,11 +1,10 @@
-👋 Hi, I’m @jalzoren
-👀 I’m interested in web development, UI/UX design, and graphic design. I love creating visually appealing and functional user interfaces while ensuring a smooth user experience. Additionally, I have a passion for back-end development and database management, making sure that applications are both aesthetically pleasing and highly efficient.
+# Hi, I’m @jalzoren!
+I’m into **Web Development**, **UI/UX Design**, and **Graphic Design**. I enjoy creating clean, user-friendly interfaces that also work smoothly behind the scenes.
 
-🌱 I’m currently learning more about front-end and back-end web development, refining my skills in HTML, CSS, JavaScript, and modern frameworks. On the back end, I’m exploring databases, server-side logic, and API integration to build dynamic and scalable applications. I’m also diving deeper into UI/UX principles to enhance user interactions.
+## Right now, I’m learning more about **HTML**, **CSS**, **JavaScript**, **VBNet**, **C++** and modern frameworks. I’m also exploring **Back-End Development**, **Databases**, and **APIs** to build full-stack applications. Plus, I’m diving deeper into **UI/UX** to improve user experience.
 
-💞️ I’m looking to collaborate on projects related to web designs and ui/ux projects. 
+### I’m open to collaborating on **Web Design** and **UI/UX** projects.
 
-📫 How to reach me: You can contact me via email or connect with me here on GitHub. I’m always open to networking, learning from others, and contributing to exciting projects.
+Reach me by email or message me here on GitHub. I’d love to connect, learn, and work on cool ideas together!
 
-😄 Pronouns: He/Him
-
+Pronouns: **He/Him**
