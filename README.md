@@ -1,5 +1,5 @@
 # Hi, I’m @jalzoren!
-I’m into **Web Development**, **UI/UX Design**, and **Graphic Design**. I enjoy creating clean, user-friendly interfaces that also work smoothly behind the scenes.
+I’m into **Web Development**, practicing and creating creative websites and interactions @**NEOcities**, **UI/UX Design**, and **Graphic Design**. I enjoy creating clean, user-friendly interfaces that also work smoothly behind the scenes.
 
 ## Right now, I’m learning more about **HTML**, **CSS**, **JavaScript**, **VBNet**, **C++** and modern frameworks. I’m also exploring **Back-End Development**, **Databases**, and **APIs** to build full-stack applications. Plus, I’m diving deeper into **UI/UX** to improve user experience.
 
