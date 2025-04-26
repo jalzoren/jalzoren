@@ -1,10 +1,10 @@
 # Hi, I’m @jalzoren!
-I’m into **Web Development**, practicing and creating creative websites and interactions @**NEOcities**, **UI/UX Design**, and **Graphic Design**. I enjoy creating clean, user-friendly interfaces that also work smoothly behind the scenes.
+I’m into **Web Development**, **UI/UX Design**, and **Graphic Design**, creating clean, user-friendly websites @**NEOcities**.
 
-## Right now, I’m learning more about **HTML**, **CSS**, **JavaScript**, **VBNet**, **C++** and modern frameworks. I’m also exploring **Back-End Development**, **Databases**, and **APIs** to build full-stack applications. Plus, I’m diving deeper into **UI/UX** to improve user experience.
+## Right now, I’m learning **HTML**, **CSS**, **JavaScript**, **VBNet**, **C++**, plus **Back-End Development**, **Databases**, **APIs**, and advancing in **UI/UX**.
 
 ### I’m open to collaborating on **Web Design** and **UI/UX** projects.
 
-Reach me by email or message me here on GitHub. I’d love to connect, learn, and work on cool ideas together!
+Reach me by email or message me here on GitHub — I’d love to connect and work on cool ideas!
 
 Pronouns: **He/Him**
