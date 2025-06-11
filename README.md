@@ -1,7 +1,7 @@
 # Hi, I’m @jalzoren! ᓚᘏᗢ
 I’m into **Web Development**, **UI/UX Design**, and **Graphic Design**, creating clean, user-friendly websites @**NEOcities**.
 
-## Right now, I’m advancing in **HTML**, **CSS**, **JavaScript**, *UI/UX**., plus **Back-End Development**, and currently learning on **Databases**, **APIs**,  **VBNet**.
+## Right now, I’m advancing in **HTML**, **CSS**, **JavaScript**, **UI/UX** and currently learning on **Databases**,  **Back-End Development**, **APIs**,  **VBNet**.
 
 ### I’m open to collaborating on **Web Design** and **UI/UX** / **Graphic Design** projects.
 
