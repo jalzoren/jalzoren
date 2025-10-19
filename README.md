@@ -11,16 +11,13 @@
 - 👨‍💻 All of my projects and graphic designs are available at [https://jalgorithm.netlify.app](https://jalgorithm.netlify.app)
 
 
+
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jalzoren&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jalzoren&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://tenor.com/view/given-uenoyama-gif-26016375"  />
 
 ###
 
@@ -67,8 +64,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/jalzoren/jalzoren/output/snake.svg" alt="Snake animation" />
 
