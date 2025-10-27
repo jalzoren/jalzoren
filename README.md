@@ -11,7 +11,7 @@
 - 📫 How to reach me **flavierlaurence01@gmail.com**
 <div align="center">
 
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+  <img src="https://streak-stats.demolab.com?user=jalzoren&locale=en&mode=daily&theme=prussian&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 
