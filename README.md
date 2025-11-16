@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **Advanced Website Development Frameworks**
 
-- 👨‍💻 All of my projects and graphic designs are available at [https://jalgorithm.netlify.app](https://jalgorithm.netlify.app)
-
 - 📫 How to reach me **flavierlaurence01@gmail.com**
 <div align="center">
 
