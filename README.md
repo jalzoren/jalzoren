@@ -2,9 +2,9 @@
 
 
 
-- 🔭 I’m currently working on **Website Designs / UI/UX Designs**
+- 🔭 I’m currently working on **Frontend Development / Website Designs / UI/UX Designs**
 
-- 🌱 I’m currently learning **Advanced Website Development Frameworks**
+- 🌱 I’m currently learning **Advanced Website Development Frameworks and Libraries**
 <div align="center">
 
   <img src="https://visitor-badge.laobi.icu/badge?page_id=jalzoren.jalzoren&"  />
