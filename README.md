@@ -5,8 +5,6 @@
 - 🔭 I’m currently working on **Website Designs / UI/UX Designs**
 
 - 🌱 I’m currently learning **Advanced Website Development Frameworks**
-
-- 📫 How to reach me **flavierlaurence01@gmail.com**
 <div align="center">
 
   <img src="https://visitor-badge.laobi.icu/badge?page_id=jalzoren.jalzoren&"  />
