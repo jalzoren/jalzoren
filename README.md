@@ -45,22 +45,6 @@
 
 ---
 
-### 📌 Pinned Repositories
-
-<div align="center">
-  <a href="https://github.com/jalzoren/project1" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jalzoren&repo=project1&theme=dracula" alt="Project 1" />
-  </a>
-  <a href="https://github.com/jalzoren/project2" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jalzoren&repo=project2&theme=dracula" alt="Project 2" />
-  </a>
-  <a href="https://github.com/jalzoren/project3" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jalzoren&repo=project3&theme=dracula" alt="Project 3" />
-  </a>
-</div>
-
----
-
 ### 📫 Connect with Me
 
 <div align="center">
