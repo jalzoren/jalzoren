@@ -1,69 +1,78 @@
-<h2 align="left">Hi 👋 ! My name is JAL !</h2>
+<h2 align="center">Hi 👋, I'm JAL!</h2>
+<h4 align="center">Frontend Developer | UI/UX Designer | Website Enthusiast</h4>
 
+---
 
+### 🔭 About Me
+- I’m currently working on **Frontend Development, Website Design, and UI/UX Projects**.  
+- 🌱 I’m learning **Advanced Web Development Frameworks and Libraries** to enhance my skills.  
+- 💬 Ask me about **React, HTML, CSS, JavaScript, Python, and UI/UX Design**.
 
-- 🔭 I’m currently working on **Frontend Development / Website Designs / UI/UX Designs**
-
-- 🌱 I’m currently learning **Advance Website Development Frameworks and Libraries**
-<div align="center">
-
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=jalzoren.jalzoren&"  />
-</div>
-
-
-
-###
+---
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jalzoren&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-
-  <img src="https://streak-stats.demolab.com?user=jalzoren&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=jalzoren.jalzoren" alt="Visitor Badge" />
 </div>
 
-###
+---
+
+### 🛠️ Tech Stack
+
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="Android Studio" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
 </div>
 
-###
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jalzoren&layout=compact&langs_count=5&theme=dracula" height="150" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=jalzoren&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="GitHub Streak" />
+</div>
+
+---
+
+### 📌 Pinned Repositories
+
+<div align="center">
+  <a href="https://github.com/jalzoren/project1" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jalzoren&repo=project1&theme=dracula" alt="Project 1" />
+  </a>
+  <a href="https://github.com/jalzoren/project2" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jalzoren&repo=project2&theme=dracula" alt="Project 2" />
+  </a>
+  <a href="https://github.com/jalzoren/project3" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jalzoren&repo=project3&theme=dracula" alt="Project 3" />
+  </a>
+</div>
+
+---
+
+### 📫 Connect with Me
 
 <div align="center">
   <a href="https://discord.com/jalzoren" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="35" />
   </a>
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="mailto:your-email@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
   </a>
-  <a href="www.linkedin.com/in/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/jalzoren" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
   </a>
 </div>
 
-###
-
-
-###
+---
