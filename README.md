@@ -1,4 +1,6 @@
-<h2 align="center">Hi 👋, I'm JAL!</h2>
+<h2 align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="50" alt="wave" /> Hi 👋, I'm JAL!
+</h2>
 <h4 align="center">Frontend Developer | UI/UX Designer | Website Enthusiast</h4>
 
 ---
@@ -8,13 +10,13 @@
 - 🌱 I’m learning **Advanced Web Development Frameworks and Libraries** to enhance my skills.  
 - 💬 Ask me about **React, HTML, CSS, JavaScript, Python, and UI/UX Design**.
 
----
+
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=jalzoren.jalzoren" alt="Visitor Badge" />
 </div>
 
----
+
 
 ### 🛠️ Tech Stack
 
@@ -34,7 +36,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
 </div>
 
----
+
 
 ### 📊 GitHub Stats
 
@@ -43,7 +45,7 @@
   <img src="https://streak-stats.demolab.com?user=jalzoren&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="GitHub Streak" />
 </div>
 
----
+
 
 ### 📫 Connect with Me
 
@@ -59,4 +61,3 @@
   </a>
 </div>
 
----
