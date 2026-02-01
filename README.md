@@ -1,5 +1,5 @@
 <h2 align="center">
-  <img src="https://media.gifdb.com/maris-racal-cries-while-typing-meme-eoznn3dy02ium189.gif" width="150" alt="Hanosaurs GIF" />
+  <img src="https://gifdb.com/images/high/maris-racal-cries-while-typing-meme-eoznn3dy02ium189.webp" width="150" alt="Hanosaurs GIF" />
 </h2>
 
 
