@@ -1,7 +1,9 @@
 <h2 align="center">
   <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="50" alt="wave" />
 </h2>
-  <h1>
+
+
+  <h1 align="center">
     Hi 👋, I'm JAL!
   </h1>
 
