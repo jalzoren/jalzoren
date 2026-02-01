@@ -1,5 +1,5 @@
 <h2 align="center">
-  <img src="https://tenor.com/view/hanosaurs-filipino-meme-maris-racal-gif-21513770" width="150" alt="Hanosaurs GIF" />
+  <img src="https://media.gifdb.com/maris-racal-cries-while-typing-meme-eoznn3dy02ium189.gif" width="150" alt="Hanosaurs GIF" />
 </h2>
 
 
