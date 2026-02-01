@@ -64,10 +64,10 @@
 ### 📫 Connect with Me
 
 <div align="center">
-  <a href="https://discord.com/jalzoren" target="_blank">
+  <a href="https://discord.com/911117160712130601" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="35" />
   </a>
-  <a href="mailto:your-email@gmail.com" target="_blank">
+  <a href="mailto:flavierlaurence01@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
   </a>
   <a href="https://www.linkedin.com/in/jalzoren" target="_blank">
