@@ -1,6 +1,4 @@
-<h2 align="center">
-  <img src="https://media1.tenor.com/m/FyCA1cuwX6gAAAAd/hanosaurs-filipino.gif" width="150" alt="fun GIF" />
-</h2>
+<div class="tenor-gif-embed" data-postid="21513770" data-share-method="host" data-aspect-ratio="0.78125" data-width="100%"><a href="https://tenor.com/view/hanosaurs-filipino-meme-maris-racal-gif-21513770">Hanosaurs Filipino GIF</a>from <a href="https://tenor.com/search/hanosaurs-gifs">Hanosaurs GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
   <h1 align="center">
     Hi 👋, I'm JAL!
