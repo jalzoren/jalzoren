@@ -1,5 +1,5 @@
 <h2 align="center">
-  <img src="(https://media1.tenor.com/m/FyCA1cuwX6gAAAAd/hanosaurs-filipino.gif)" width="50" alt="wave" />
+  <img src="https://media1.tenor.com/m/FyCA1cuwX6gAAAAd/hanosaurs-filipino.gif" width="50" alt="cry" />
 </h2>
 
 
