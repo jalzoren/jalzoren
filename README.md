@@ -1,6 +1,10 @@
 <h2 align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="50" alt="wave" /> Hi 👋, I'm JAL!
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="50" alt="wave" />
 </h2>
+  <h1>
+    Hi 👋, I'm JAL!
+  </h1>
+
 <h4 align="center">Frontend Developer | UI/UX Designer | Website Enthusiast</h4>
 
 ---
@@ -8,7 +12,7 @@
 ### 🔭 About Me
 - I’m currently working on **Frontend Development, Website Design, and UI/UX Projects**.  
 - 🌱 I’m learning **Advanced Web Development Frameworks and Libraries** to enhance my skills.  
-- 💬 Ask me about **React, HTML, CSS, JavaScript, Python, and UI/UX Design**.
+- 💬 Ask me about **React, HTML, CSS, JavaScript, React Vite, and UI/UX Design**.
 
 
 
