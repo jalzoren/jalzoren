@@ -55,7 +55,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jalzoren&layout=compact&langs_count=5&theme=dracula" height="150" alt="Top Languages" />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jalzoren&show_icons=true&locale=en&layout=compact" alt="jalzoren" /></p>
   <img src="https://streak-stats.demolab.com?user=jalzoren&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="GitHub Streak" />
 </div>
 
