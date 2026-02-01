@@ -1,7 +1,6 @@
 <h2 align="center">
-  <img src="https://media1.tenor.com/m/FyCA1cuwX6gAAAAd/hanosaurs-filipino.gif" width="50" alt="cry" />
+  <img src="https://tenor.com/view/bCqSs.gif" width="150" alt="fun GIF" />
 </h2>
-
 
   <h1 align="center">
     Hi 👋, I'm JAL!
