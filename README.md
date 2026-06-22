@@ -7,7 +7,7 @@
     Hi 👋, I'm JAL!
   </h1>
 
-<h4 align="center">Frontend Developer | UI/UX Designer | Website Enthusiast</h4>
+<h4 align="center">Frontend Developer | UI/UX Designer | Graphic Designer</h4>
 
 ---
 
